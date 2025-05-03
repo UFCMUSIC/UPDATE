@@ -1,7 +1,7 @@
 {
-    "name": "𝐏ᴜʀᴠɪ 𝐌ᴜsɪᴄ",
+    "name": "𝗟𝗶𝘀𝗮 𝗠𝘂𝘀𝗶𝗰 ♪",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://files.catbox.moe/r7lxq3.jpg",
+    "logo": "https://files.catbox.moe/mccc35.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "7995626429",
+        "value": "8184370372",
         "required": true
       },
       "STRING_SESSION": {
