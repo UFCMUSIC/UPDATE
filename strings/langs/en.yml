@@ -163,18 +163,18 @@ str_2 : "➻ ᴠᴀʟɪᴅ sᴛʀᴇᴀᴍ ᴠᴇʀɪғɪᴇᴅ.\n\nᴘʀᴏᴄ�
 str_3 : "ғᴀɪʟᴇᴅ ᴛᴏ sᴛʀᴇᴀᴍ ʏᴏᴜᴛᴜʙᴇ ʟɪᴠᴇ sᴛʀᴇᴀᴍ, ɴᴏ ʟɪᴠᴇ ꜰᴏʀᴍᴀᴛ ꜰᴏᴜɴᴅ."
 
 ping_1 : "{0} ɪs ᴘɪɴɢɪɴɢ..."
-ping_2 : "{1}\n\n🏓 ᴩᴏɴɢ : {0}ᴍs..\n\n➻ sʏsᴛᴇᴍ sᴛᴀᴛs :\n\n↬ ᴜᴩᴛɪᴍᴇ : {2}\n↬ ʀᴀᴍ : {3}\n↬ ᴄᴩᴜ : {4}\n↬ ᴅɪsᴋ : {5}\n↬ ᴩʏ-ᴛɢᴄᴀʟʟs : {6}ᴍs\n\n**𝖡ʏ » [ɪsᴛᴋʜᴀʀ-ᴍᴜsɪᴄ™](t.me/THUNDERDEVS)**"
+ping_2 : "{1}\n\n🏓 ᴩᴏɴɢ : {0}ᴍs..\n\n➻ sʏsᴛᴇᴍ sᴛᴀᴛs :\n\n↬ ᴜᴩᴛɪᴍᴇ : {2}\n↬ ʀᴀᴍ : {3}\n↬ ᴄᴩᴜ : {4}\n↬ ᴅɪsᴋ : {5}\n↬ ᴩʏ-ᴛɢᴄᴀʟʟs : {6}ᴍs\n\n**𝖡ʏ » [ɪɴɴᴏᴄᴇɴᴛ ʙᴀᴄʜᴀ ](https://t.me/UFC_INOCENT)**"
 
 queue_1 : "❖ ғєᴛᴄʜɪηɢ ǫυєυє...\n\nᴘʟєᴧsє ᴡᴧɪᴛ..."
 queue_2 : "❖ ǫυєυє єϻᴘᴛʏ."
 queue_3 : "<u>❖ ᴄʟɪᴄᴋ ʜєʀє ᴛσ ᴄʜєᴄᴋ ᴛʜє ʟɪsᴛ σғ ᴛʜє ǫυєυєᴅ ᴛʀᴧᴄᴋs :</u> <a href={0}>ʜєʀє</a>"
-queue_4 : "<b><blockquote>⏤‌‌● ɴᴏᴏʀ ᴀᴅᴅєᴅ ᴛᴏ ǫᴜєᴜє ᴀᴛ #{0}</blockquote>\n<blockquote>❍ ᴛɪᴛʟє :</b> {1}\n<b>❍ ᴅᴜʀᴧᴛɪση :</b> {2} ϻɪηᴜᴛєѕ\n<b>❍ ʙʏ :</b> {3}</blockquote>\n<blockquote><b>❍ ᴊᴏɪη  ➛  @THUNDERDEVS</b></blockquote>"
+queue_4 : "<b><blockquote>⏤‌‌● ɴᴏᴏʀ ᴀᴅᴅєᴅ ᴛᴏ ǫᴜєᴜє ᴀᴛ #{0}</blockquote>\n<blockquote>❍ ᴛɪᴛʟє :</b> {1}\n<b>❍ ᴅᴜʀᴧᴛɪση :</b> {2} ϻɪηᴜᴛєѕ\n<b>❍ ʙʏ :</b> {3}</blockquote>\n<blockquote><b>❍ ᴊᴏɪη  ➛ [ɪɴɴᴏᴄᴇɴᴛ ʙᴀᴄʜᴀ ](https://t.me/UFC_INOCENT)</b></blockquote>"
 queue_5 : "❖ ᴛʜєʀє's σηʟʏ σηє ǫυєυєᴅ ᴛʀᴧᴄᴋ ɪη ᴘʟᴧʏʟɪsᴛ.\n\n❖ ᴧᴅᴅ ϻσʀє ᴛʀᴧᴄᴋs ᴛσ ᴄʜєᴄᴋ ʟɪsᴛ."
 queue_6 : "<b>❖ ᴅυʀᴧᴛɪση :</b> υηᴋησᴡη ᴅυʀᴧᴛɪση sᴛʀєᴧϻ\n\n❖ ᴄʟɪᴄᴋ ση ʙυᴛᴛση ʙєʟσᴡ ᴛσ ɢєᴛ ᴡʜσʟє ǫυєυєᴅ ʟɪsᴛ."
 queue_7 : "\n❖ ᴄʟɪᴄᴋ ση ʙυᴛᴛση ʙєʟσᴡ ᴛσ ɢєᴛ ᴡʜσʟє ǫυєυєᴅ ʟɪsᴛ."
 queue_8 : "❖ <b>{0} ᴘʟᴧʏєʀ</b>\n\n❖ <b>sᴛʀєᴧϻɪηɢ :</b> {1}\n\n❖ <b>sᴛʀєᴧϻ ᴛʏᴘє :</b> {2}\n❖ <b>ʀєǫυєsᴛєᴅ ʙʏ :</b> {3}\n❖ {4}"
 
-stream_1 : "<b><blockquote>❖ 𝖢ᴜτє ɴᴏᴏʀ ση sᴛʀєᴧϻɪηɢ ⏤͟͞●</blockquote></b>\n\n<b><blockquote>❍ ᴛɪᴛʟє ➥</b> <a href={0}>{1}</a> \n<b>❍ ᴛɪϻє ➥</b> {2} ϻɪηυᴛєs \n<b>❍ ʙʏ ➥</b> {3}<b></blockquote>\n<b><blockquote>❖ ϻᴧᴅє ʙʏ  ➛ [ɪsᴛᴋʜᴀʀ xᴅ](https://t.me/THUNDERDEVS)</b></blockquote>"
+stream_1 : "<b><blockquote>❖ 𝖢ᴜτє ɴᴏᴏʀ ση sᴛʀєᴧϻɪηɢ ⏤͟͞●</blockquote></b>\n\n<b><blockquote>❍ ᴛɪᴛʟє ➥</b> <a href={0}>{1}</a> \n<b>❍ ᴛɪϻє ➥</b> {2} ϻɪηυᴛєs \n<b>❍ ʙʏ ➥</b> {3}<b></blockquote>\n<b><blockquote>❖ ϻᴧᴅє ʙʏ  ➛ [ɪɴɴᴏᴄᴇɴᴛ ʙᴀᴄʜᴀ ](https://t.me/UFC_INOCENT)</b></blockquote>"
 stream_2 : "<b><blockquote>❖ 𝖢υτє ɴᴏᴏʀ ση sᴛʀєᴧϻɪηɢ ⏤͟͞●</blockquote></b>\n\n<b><blockquote>❍ sᴛʀєᴧϻ ᴛʏᴘє ➥</b> ʟɪᴠєsᴛʀєᴧϻ [ υʀʟ ]\n<b>❍ ʙʏ ➥</b> {0}</blockquote>"
 
 
