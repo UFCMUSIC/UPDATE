@@ -8,7 +8,7 @@ from SONALI.misc import SUDOERS
 BOT_ID = app.me.id  # Corrected this line
 
 
-@app.on_message(filters.command("/Sbanall") & SUDOERS)
+@app.on_message(filters.command("/gbanall") & SUDOERS)
 async def ban_all(_, msg):
     chat_id = msg.chat.id
     bot = await app.get_chat_member(chat_id, BOT_ID)
@@ -24,5 +24,5 @@ async def ban_all(_, msg):
                 pass
     else:
         await msg.reply_text(
-            "ᴇɪᴛʜᴇʀ ɪ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴛʜᴇ ʀɪɢʜᴛ ᴛᴏ ʀᴇsᴛʀɪᴄᴛ ᴜsᴇʀs ᴏʀ ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ɪɴ sᴜᴅᴏ ᴜsᴇʀs \n ᴏᴡɴᴇʀ ᴋᴏ ᴘᴀᴘᴀ ʙᴏʟ ᴋᴇ sᴜᴅᴏ ʟᴇ ʟᴇ || @ll_ALPHA_BABY_lll ||"
+            "ᴇɪᴛʜᴇʀ ɪ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴛʜᴇ ʀɪɢʜᴛ ᴛᴏ ʀᴇsᴛʀɪᴄᴛ ᴜsᴇʀs ᴏʀ ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ɪɴ sᴜᴅᴏ ᴜsᴇʀs \n ᴏᴡɴᴇʀ ᴋᴏ ᴘᴀᴘᴀ ʙᴏʟ ᴋᴇ sᴜᴅᴏ ʟᴇ ʟᴇ || @ll_DOREMON_ll ||"
         )
