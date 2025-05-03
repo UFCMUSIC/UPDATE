@@ -1,5 +1,5 @@
 <h2 align="center">
-    ─「 𝐏ᴜʀᴠɪ 𝘅 𝐌ᴜsɪᴄ 」─
+    ─「 ˹ 𝐒ɪʏʌ 𝐌ᴜꜱɪᴄ ˼ 」─
 
 </h2>
 
@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://files.catbox.moe/1ja81y.jpg">
+  <img src="https://files.catbox.moe/mccc35.jpg">
 </p>
 
 
@@ -35,7 +35,7 @@
 </h3>
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ISTKHAR-king/BABY-MUSIC"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/UFCMUSIC/UPDATE"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
 
 
 
