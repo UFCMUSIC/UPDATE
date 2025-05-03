@@ -40,23 +40,23 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
     percentage = (played_sec / duration_sec) * 100
     umm = math.floor(percentage)
     if 0 < umm <= 10:
-        bar = "𝗡—————————"
+        bar = "‌𝗛—————————"
     elif 10 < umm < 20:
-        bar = "—𝗢————————"
+        bar = "—𝗘————————"
     elif 20 <= umm < 30:
-        bar = "——𝗢———————"
+        bar = "——𝗔———————"
     elif 30 <= umm < 40:
         bar = "———𝗥——————"
     elif 40 <= umm < 50:
-        bar = "————💗—————"
+        bar = "————𝗧—————"
     elif 50 <= umm < 60:
-        bar = "—————𝗜————"
+        bar = "—————💗————"
     elif 60 <= umm < 70:
-        bar = "——————𝗠———"
+        bar = "——————💗———"
     elif 70 <= umm < 80:
-        bar = "——𝗜𝗦𝗧𝗞𝗛𝗔𝗥——"
+        bar = "——𝗛𝗘𝗔𝗥𝗧——"
     elif 80 <= umm < 95:
-        bar = "——💗𝗡𝗢𝗢𝗥💗💗———"
+        bar = "——💗𝗕𝗘𝗔𝗧💗———"
     else:
         bar = "——————————♡"
 
@@ -76,10 +76,10 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="✰ 𝖡ᴧ፝֠֩ʙꭎ ✰", url="https://t.me/ll_ISTKHAR_BABY_lll",
+                text="✰ 𝖡ᴧ፝֠֩ʙꭎ ✰", url="https://t.me/ll_DOREMON_ll",
             ),
             InlineKeyboardButton(
-                text="✰ 𝛅ᴏ፝֠֩𝛈ᴧ ✰", url="https://t.me/THUNDERDEVS",
+                text="✰ 𝛅ᴏ፝֠֩𝛈ᴧ ✰", url="https://t.me/UFC_NETWORK",
             )
         ],
          [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -99,10 +99,10 @@ def stream_markup(_, videoid, chat_id):
          ],
         [
             InlineKeyboardButton(
-                text="✰ 𝖡ᴧ፝֠֩ʙꭎ ✰", url="https://t.me/ll_ISTKHAR_BABY_lll",
+                text="✰ 𝖡ᴧ፝֠֩ʙꭎ ✰", url="https://t.me/ll_DOREMON_ll",
             ),
             InlineKeyboardButton(
-                text="✰ 𝛅ᴏ፝֠֩𝛈ᴧ ✰", url="https://t.me/THUNDERDEVS",
+                text="✰ 𝛅ᴏ፝֠֩𝛈ᴧ ✰", url="https://t.me/UFC_NETWORK",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
